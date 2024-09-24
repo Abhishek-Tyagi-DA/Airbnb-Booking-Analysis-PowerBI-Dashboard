@@ -10,3 +10,4 @@ Project Objective
  In this challenge, I leveraged a dataset which I previously analyzed during an Exploratory Data Analysis (EDA) project in Python.The task was designing an interactive and informative Power BI Dashboard using the dataset that was used during EDA.
 
 For this Purpose, I utilised the power query for the data wrangling and Powert BI desktop for the report creation.This Project helped me get the working knowledge of Power BI and helped me with get acquainted with the challenges involbved in handling the real-world large datasets and how to tackle those problems. Through this Project I Showed my problem solving skills.
+![1722854542628](https://github.com/user-attachments/assets/b719619d-8498-4275-90dd-b466c120d78b)
