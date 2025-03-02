@@ -7,7 +7,9 @@ The dataset consists of Airbnb booking information including:
 - **Customer demographics**: Age, nationality, etc.
 - **Booking details**: Check-in/check-out dates, length of stay, and total cost.
 - **Room features**: Type of property, number of rooms, amenities.
+- 
 ![Image](https://github.com/user-attachments/assets/e7b609cd-d7fc-4402-adac-0af141075f6a)
+
 ## **Tools Used**
 **Excel:** Used for data cleaning, preprocessing, and ensuring data quality.
 **PowerBI:** Used for creating interactive visualizations and dashboards to analyze hotel bookings and cancellations.
@@ -44,7 +46,8 @@ c. The dataset contained various columns like reservation date, customer type, m
 **Previous Year (PY) Bookings:** 43,927
 
 **PY Cancellations:** 12,779 (29.08% cancellation rate)
-![Screenshot (155)](https://github.com/AbhishekTyagi21/Hotel-Analysis-Dashboard-using-Power-BI/assets/158055927/26c439fc-85db-4bae-aa2d-5da5cd0e469a)
+
+![Image](https://github.com/user-attachments/assets/5587d11d-1bbf-42fc-b61c-dcc7f9bc7ac4)
 
 ### **Booking Distribution:**
 
@@ -88,6 +91,8 @@ c. The dataset contained various columns like reservation date, customer type, m
 2. Deeper Customer Segmentation: Analyze the cancellation behavior of different customer segments in more detail.
 
 3. Actionable Insights: Recommend strategies for hotels to reduce cancellations, such as offering special incentives for certain customer types or market segments.
+
+![Image](https://github.com/user-attachments/assets/8198fc18-1cc7-44a8-ab42-faee795e0f71)
 
 ## **Conclusion**
 
