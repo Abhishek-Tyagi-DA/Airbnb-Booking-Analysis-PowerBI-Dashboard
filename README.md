@@ -1,6 +1,6 @@
 # Booking.com - Hotel Booking Analysis - Power BI Dashboard  
 
-![Airbnb Dashboard](https://github.com/user-attachments/assets/e7b609cd-d7fc-4402-adac-0af141075f6a)
+<img src="https://github.com/user-attachments/assets/d49dd37d-18a4-4ca3-ad90-2ce7664a9d77" alt="Dashboard Insights" style="height: 400px; width: auto;">  
 
 ## **Overview**  
 This project analyzes **hotel booking cancellations** using a dataset from Airbnb. The primary goal is to provide insights into factors influencing booking cancellations across **City Hotels** and **Resort Hotels**. The analysis utilizes **Excel for data preprocessing** and **Power BI for visualization and dashboard creation**.
@@ -15,8 +15,6 @@ The dataset consists of Airbnb booking records, including:
 - **Room Features:** Property type, number of rooms, amenities.  
 - **Market Segment:** Distribution channels such as **Online TA, Offline TA, Direct, Corporate** bookings.  
 - **Booking Status:** Whether a reservation was completed or canceled.  
-
-![Booking Data](https://github.com/user-attachments/assets/8198fc18-1cc7-44a8-ab42-faee795e0f71)
 
 ---
 
@@ -38,7 +36,7 @@ The dataset consists of Airbnb booking records, including:
 📊 **Customer Type Analysis:** Bar charts analyzing **Transient, Contract, and Group customer segments**.  
 📊 **Market Segment Analysis:** Analysis of bookings and cancellations across **Online TA, Offline TA, Direct, Groups, Corporate, and others**.  
 
-![Power BI Insights](https://github.com/user-attachments/assets/5587d11d-1bbf-42fc-b61c-dcc7f9bc7ac4)
+<img src="https://github.com/user-attachments/assets/78886ee6-8c42-4694-b30a-1b67c75d939a" alt="Dashboard Screenshot" style="height: 400px; width: 500px;">  
 
 ---
 
