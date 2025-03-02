@@ -1,4 +1,4 @@
-# Airbnb Booking Analysis - Power BI Dashboard  
+# Booking.com - Hotel Booking Analysis - Power BI Dashboard  
 
 ![Airbnb Dashboard](https://github.com/user-attachments/assets/e7b609cd-d7fc-4402-adac-0af141075f6a)
 
