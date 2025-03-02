@@ -1,4 +1,4 @@
-# Booking.com | Hotel Booking Analysis | PowerBI Dashboard  
+# Booking.com-Hotel Booking Analysis | PowerBI Dashboard  
 
 <img src="https://github.com/user-attachments/assets/d49dd37d-18a4-4ca3-ad90-2ce7664a9d77" alt="Dashboard Insights" style="height: 400px; width: auto;">  
 
@@ -36,7 +36,7 @@ The dataset consists of Airbnb booking records, including:
 📊 **Customer Type Analysis:** Bar charts analyzing **Transient, Contract, and Group customer segments**.  
 📊 **Market Segment Analysis:** Analysis of bookings and cancellations across **Online TA, Offline TA, Direct, Groups, Corporate, and others**.  
 
-<img src="https://github.com/user-attachments/assets/78886ee6-8c42-4694-b30a-1b67c75d939a" alt="Dashboard Screenshot" style="height: 400px; width: 500px;">  
+ 
 
 ---
 
@@ -53,6 +53,7 @@ The dataset consists of Airbnb booking records, including:
 📉 **City hotels have higher cancellations** compared to resort hotels.  
 📉 **Online Travel Agencies (OTAs) contribute to the highest cancellations.**  
 
+<img src="https://github.com/user-attachments/assets/78886ee6-8c42-4694-b30a-1b67c75d939a" alt="Dashboard Screenshot" style="height: 400px; width: 500px;"> 
 ---
 
 ## **Insights & Recommendations**  
