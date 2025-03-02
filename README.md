@@ -1,4 +1,4 @@
-# OYO-Booking-Analysis-PowerBI-Dashboard
+# AirBnb-Booking-Analysis-PowerBI-Dashboard
 
 https://app.powerbi.com/view?r=eyJrIjoiYzE0NjBlNDQtOWJiOS00Yjk0LTk2N2QtYTRjNTA2MDNmYzBiIiwidCI6ImE3OGQ1M2IzLTNiMGYtNDIzMy1iMGYyLTRkYjhlNGJkMWQ4MCJ9&pageName=ReportSection
 
