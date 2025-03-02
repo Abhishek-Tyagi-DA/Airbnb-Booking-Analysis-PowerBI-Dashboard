@@ -85,9 +85,9 @@ This project successfully **visualizes booking and cancellation trends**, helpin
 🔗 **Live Dashboard Link:** [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYzE0NjBlNDQtOWJiOS00Yjk0LTk2N2QtYTRjNTA2MDNmYzBiIiwidCI6ImE3OGQ1M2IzLTNiMGYtNDIzMy1iMGYyLTRkYjhlNGJkMWQ4MCJ9&pageName=ReportSection)  
 
 ## 📬 Contact
-🔗 **GitHub:** [Your GitHub Profile](https://github.com/yourusername)  
-💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourname/)  
-📧 **Email:** yourname@email.com  
+📩 Email: [abhityagi4733@gmail.com](mailto:abhityagi4733@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/abhishektyagi02](https://linkedin.com/in/abhishektyagi02)  
+🔗 GitHub: [github.com/abhishek-tyagi-da](https://github.com/abhishek-tyagi-da)    
 
 
 🚀 **Transforming raw data into valuable insights.**
