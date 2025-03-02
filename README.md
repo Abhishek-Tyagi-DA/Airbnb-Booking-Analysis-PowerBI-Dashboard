@@ -1,4 +1,4 @@
-# Booking.com - Hotel Booking Analysis - Power BI Dashboard  
+# Booking.com | Hotel Booking Analysis | PowerBI Dashboard  
 
 <img src="https://github.com/user-attachments/assets/d49dd37d-18a4-4ca3-ad90-2ce7664a9d77" alt="Dashboard Insights" style="height: 400px; width: auto;">  
 
