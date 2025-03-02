@@ -84,5 +84,11 @@ This project successfully **visualizes booking and cancellation trends**, helpin
 
 🔗 **Live Dashboard Link:** [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYzE0NjBlNDQtOWJiOS00Yjk0LTk2N2QtYTRjNTA2MDNmYzBiIiwidCI6ImE3OGQ1M2IzLTNiMGYtNDIzMy1iMGYyLTRkYjhlNGJkMWQ4MCJ9&pageName=ReportSection)  
 
-🔥 **Star this repo if you like the project!** 🚀
+## 📬 Contact
+🔗 **GitHub:** [Your GitHub Profile](https://github.com/yourusername)  
+💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourname/)  
+📧 **Email:** yourname@email.com  
+
+🚀 **Transforming raw data into valuable insights.**
+⭐ *If you found this project useful, consider giving it a star! ⭐*
 
